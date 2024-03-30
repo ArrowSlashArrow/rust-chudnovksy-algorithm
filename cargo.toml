@@ -1,0 +1,11 @@
+[package]
+name = "chudnovsky_algo"
+version = "0.1.0"
+authors = ["anton g"]
+
+[dependencies]
+bigdecimal = "0.4.0"
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
